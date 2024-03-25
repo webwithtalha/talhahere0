@@ -4,7 +4,7 @@ Hi 👋 My name is Talha Zulfiqar
 Full Stack Web Developer
 ------------------------
 
-I am talha full stack MERN Developer , I love to learn new technologies related to web applications. Currently i am working on frameworks or library like Reactjs | Nextjs | Expressjs | Nodejs | Smart contracts | Web3 | Solidity
+I am talha full stack Developer , I love to learn new technologies related to web applications. Currently i am working on frameworks or library like Reactjs | Nextjs | Expressjs | Nodejs | Smart contracts | Web3 | Solidity
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [muhammadtalha6063@gmail.com](mailto:muhammadtalha6063@gmail.com)
